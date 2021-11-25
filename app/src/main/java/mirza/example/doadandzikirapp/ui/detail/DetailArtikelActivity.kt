@@ -1,4 +1,4 @@
-package com.example.doadandzikirapp.ui.detail
+package mirza.example.doadandzikirapp.ui.detail
 
 import android.os.Bundle
 import android.widget.ImageView

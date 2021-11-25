@@ -1,4 +1,4 @@
-package com.example.doadandzikirapp.ui
+package mirza.example.doadandzikirapp.ui
 
 import android.content.Intent
 import android.os.Bundle
@@ -6,8 +6,8 @@ import android.widget.ImageButton
 import androidx.appcompat.app.AppCompatActivity
 import androidx.cardview.widget.CardView
 import com.example.doadandzikirapp.R
-import com.example.doadandzikirapp.ui.detail.DzikirPagiActivity
-import com.example.doadandzikirapp.ui.detail.DzikirPetangActivity
+import mirza.example.doadandzikirapp.ui.detail.DzikirPagiActivity
+import mirza.example.doadandzikirapp.ui.detail.DzikirPetangActivity
 
 class PagiPetangDzikirActivity : AppCompatActivity() {
 

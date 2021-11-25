@@ -1,4 +1,4 @@
-package com.example.doadandzikirapp.model
+package mirza.example.doadandzikirapp.model
 
 import android.os.Parcelable
 import kotlinx.parcelize.Parcelize

@@ -1,4 +1,4 @@
-package com.example.doadandzikirapp.adapter
+package mirza.example.doadandzikirapp.adapter
 
 import android.view.LayoutInflater
 import android.view.View
@@ -6,7 +6,7 @@ import android.view.ViewGroup
 import android.widget.TextView
 import androidx.recyclerview.widget.RecyclerView
 import com.example.doadandzikirapp.R
-import com.example.doadandzikirapp.model.DzikirDoa
+import mirza.example.doadandzikirapp.model.DzikirDoa
 
 class DzikirDoaAdapter(private val listDzikirDoa: ArrayList<DzikirDoa>) :
     RecyclerView.Adapter<DzikirDoaAdapter.MyViewHolder>() {

@@ -1,4 +1,4 @@
-package com.example.doadandzikirapp.model
+package mirza.example.doadandzikirapp.model
 
 data class DzikirDoa(
     var desc: String,

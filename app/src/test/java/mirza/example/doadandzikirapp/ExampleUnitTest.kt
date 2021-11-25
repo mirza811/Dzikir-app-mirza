@@ -1,4 +1,4 @@
-package com.example.doadandzikirapp
+package mirza.example.doadandzikirapp
 
 import org.junit.Test
 

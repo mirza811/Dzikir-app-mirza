@@ -1,4 +1,4 @@
-package com.example.doadandzikirapp
+package mirza.example.doadandzikirapp
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4

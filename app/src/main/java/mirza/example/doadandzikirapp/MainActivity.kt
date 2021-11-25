@@ -1,4 +1,4 @@
-package com.example.doadandzikirapp
+package mirza.example.doadandzikirapp
 
 import android.content.Intent
 import android.os.Bundle
@@ -8,12 +8,13 @@ import android.widget.LinearLayout
 import androidx.appcompat.app.AppCompatActivity
 import androidx.core.content.ContextCompat
 import androidx.viewpager2.widget.ViewPager2
-import com.example.doadandzikirapp.adapter.ArtikelAdapter
-import com.example.doadandzikirapp.model.Artikel
-import com.example.doadandzikirapp.ui.HarianDzikirDoaActivity
-import com.example.doadandzikirapp.ui.PagiPetangDzikirActivity
-import com.example.doadandzikirapp.ui.QauliyahShalatActivity
-import com.example.doadandzikirapp.ui.SetiapSaatDzikirActivity
+import com.example.doadandzikirapp.R
+import mirza.example.doadandzikirapp.adapter.ArtikelAdapter
+import mirza.example.doadandzikirapp.model.Artikel
+import mirza.example.doadandzikirapp.ui.HarianDzikirDoaActivity
+import mirza.example.doadandzikirapp.ui.PagiPetangDzikirActivity
+import mirza.example.doadandzikirapp.ui.QauliyahShalatActivity
+import mirza.example.doadandzikirapp.ui.SetiapSaatDzikirActivity
 
 class MainActivity : AppCompatActivity() {
 

@@ -1,4 +1,4 @@
-package com.example.doadandzikirapp.model
+package mirza.example.doadandzikirapp.model
 
 object DataDzikirDoa {
     private val descQauliyah = arrayOf(

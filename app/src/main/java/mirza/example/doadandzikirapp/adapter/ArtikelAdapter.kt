@@ -1,4 +1,4 @@
-package com.example.doadandzikirapp.adapter
+package mirza.example.doadandzikirapp.adapter
 
 import android.content.Intent
 import android.view.LayoutInflater
@@ -7,9 +7,9 @@ import android.view.ViewGroup
 import android.widget.ImageView
 import androidx.recyclerview.widget.RecyclerView
 import com.example.doadandzikirapp.R
-import com.example.doadandzikirapp.helper.OnItemClickCallback
-import com.example.doadandzikirapp.model.Artikel
-import com.example.doadandzikirapp.ui.detail.DetailArtikelActivity
+import mirza.example.doadandzikirapp.helper.OnItemClickCallback
+import mirza.example.doadandzikirapp.model.Artikel
+import mirza.example.doadandzikirapp.ui.detail.DetailArtikelActivity
 
 class ArtikelAdapter(private val listArtikel: ArrayList<Artikel>) :
     RecyclerView.Adapter<ArtikelAdapter.MyViewHolder>() {

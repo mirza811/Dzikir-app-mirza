@@ -12,37 +12,37 @@
         android:theme="@style/Theme.DoadanDzikirApp"
         tools:ignore="AllowBackup">
         <activity
-            android:name=".ui.detail.DzikirPetangActivity"
+            android:name="mirza.example.doadandzikirapp.ui.detail.DzikirPetangActivity"
             android:screenOrientation="portrait"
             android:theme="@style/PetangActivity"
             tools:ignore="LockedOrientationActivity" />
         <activity
-            android:name=".ui.detail.DzikirPagiActivity"
+            android:name="mirza.example.doadandzikirapp.ui.detail.DzikirPagiActivity"
             android:screenOrientation="portrait"
             android:theme="@style/PagiActivity"
             tools:ignore="LockedOrientationActivity" />
         <activity
-            android:name=".ui.detail.DetailArtikelActivity"
+            android:name="mirza.example.doadandzikirapp.ui.detail.DetailArtikelActivity"
             android:screenOrientation="portrait"
             tools:ignore="LockedOrientationActivity" />
         <activity
-            android:name=".ui.QauliyahShalatActivity"
+            android:name="mirza.example.doadandzikirapp.ui.QauliyahShalatActivity"
             android:screenOrientation="portrait"
             tools:ignore="LockedOrientationActivity" />
         <activity
-            android:name=".ui.HarianDzikirDoaActivity"
+            android:name="mirza.example.doadandzikirapp.ui.HarianDzikirDoaActivity"
             android:screenOrientation="portrait"
             tools:ignore="LockedOrientationActivity" />
         <activity
-            android:name=".ui.SetiapSaatDzikirActivity"
+            android:name="mirza.example.doadandzikirapp.ui.SetiapSaatDzikirActivity"
             android:screenOrientation="portrait"
             tools:ignore="LockedOrientationActivity" />
         <activity
-            android:name=".ui.PagiPetangDzikirActivity"
+            android:name="mirza.example.doadandzikirapp.ui.PagiPetangDzikirActivity"
             android:screenOrientation="portrait"
             tools:ignore="LockedOrientationActivity" />
         <activity
-            android:name=".SplashScreenActivity"
+            android:name="mirza.example.doadandzikirapp.SplashScreenActivity"
             android:exported="true"
             android:screenOrientation="portrait"
             android:theme="@style/SplashTheme"
@@ -54,7 +54,7 @@
             </intent-filter>
         </activity>
         <activity
-            android:name=".MainActivity"
+            android:name="mirza.example.doadandzikirapp.MainActivity"
             android:screenOrientation="portrait"
             android:theme="@style/NoActionBar"
             tools:ignore="LockedOrientationActivity" />
